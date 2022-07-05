@@ -1,2 +1,2 @@
 # MovieRecommendation
-Movie Recommendation using Similarity Matrix
+Movie Recommendation using Cosine Similarity Score
